@@ -4,3 +4,4 @@ Changes once more
 Changing...again
 Just one more change 
 I get this 
+Git makes sense
